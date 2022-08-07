@@ -1,0 +1,5 @@
+#+title: mdc-mode
+
+#+begin_quote
+Major mode for Nuxt’s MDC markdown flavor
+#+end_quote
